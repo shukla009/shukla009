@@ -53,7 +53,7 @@ Currently, I’m exploring **time-series forecasting and business intelligence a
 
 ## 🚀 Featured Projects  
 
-### 🧠 [Stock Price Prediction using LSTM & Time Series Analysis](https://github.com/shukla009/LSTM-Stock-Prediction)
+### 🧠 [Stock Price Prediction using LSTM & Time Series Analysis](https://github.com/shukla009/Stock_Price_Prediction---Multimodel_Streamlit_App)
 Developed a deep learning model achieving **1.9% MAPE** in forecasting Microsoft stock prices using **LSTM** and **Prophet**.  
 Deployed via **Streamlit** for real-time predictions and visual model comparison.
 
